@@ -1,0 +1,1 @@
+This is a project courtesy of the odin project which consists of a main index page and has links to a few recipes. It is built with HTML
